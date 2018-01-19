@@ -1,0 +1,29 @@
+﻿{
+    "appid":"填写你的appid",
+    "api_key":"填写你的api_key",
+    "secret_key":"填写你的secret_key",
+    "1":{
+        "platform_name":"百万英雄",
+        "cut_top":0.16,
+        "cut_bottom":0.25,
+        "cut_edge":0.05,
+        "answer_start":0.3,
+        "answer_count":4
+    },
+    "2":{
+        "platform_name":"冲顶大会",
+        "cut_top":0.18,
+        "cut_bottom":0.4,
+        "cut_edge":0.05,
+        "answer_start":0.3,
+        "answer_count":4
+    },
+    "3":{
+        "platform_name":"其他平台",
+        "cut_top":0.16,
+        "cut_bottom":0.25,
+        "cut_edge":0.05,
+        "answer_start":0.3,
+        "answer_count":4
+    }
+}
