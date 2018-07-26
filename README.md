@@ -8,7 +8,7 @@
     public static $adb_root = 'D:\toos\adb\adb.exe'; 
 ```
 - PHP环境需要开启CURL、mbstring、gd等拓展。
-- 申请百度ORC识图API [申请地址](https://ai.baidu.com/tech/ocr/general) 登录百度账号账号或者注册进去后 [创建应用](https://console.bce.baidu.com/ai/#/ai/speech/app/create)（此链接失效请[点击此处](https://console.bce.baidu.com/ai/)然后点击创建应用即可进入以下页面）
+- 申请百度OCR识图API [申请地址](https://ai.baidu.com/tech/ocr/general) 登录百度账号账号或者注册进去后 [创建应用](https://console.bce.baidu.com/ai/#/ai/speech/app/create)（此链接失效请[点击此处](https://console.bce.baidu.com/ai/)然后点击创建应用即可进入以下页面）
 
 ![orc_create](https://cdn.wm07.cn/orc_create.png)
 
